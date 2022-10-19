@@ -1,3 +1,6 @@
+/**
+ * for文、for...of
+ */
 function myFunction9() {
   // ■ 構文
   // for (初期化式; 条件式; 加算式) {

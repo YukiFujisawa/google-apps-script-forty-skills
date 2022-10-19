@@ -1,3 +1,6 @@
+/**
+ * 代入演算子
+ */
 function myFunction7() {
   let x = 10;
   Logger.log(x);

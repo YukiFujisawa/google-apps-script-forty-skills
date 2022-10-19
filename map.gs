@@ -1,3 +1,6 @@
+/**
+ * [便利メソッド]map()
+ */
 function myFunction15() {
   const array = [10, 20, 30];
   const array2 = array.map((value) => {

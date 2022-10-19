@@ -1,3 +1,6 @@
+/**
+ * if文と条件式、比較演算子
+ */
 function myFunction8() {
   // if (条件式) {
   //   実行文A

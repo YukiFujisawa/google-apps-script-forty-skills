@@ -1,3 +1,6 @@
+/**
+ * [便利クラス]Map
+ */
 function myFunction18() {
   const map = new Map();
   for (let i = 0; i < 10; i += 1) {

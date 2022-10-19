@@ -1,3 +1,6 @@
+/**
+ * [便利メソッド]reduce()
+ */
 function myFunction17() {
   const array = [10, 20, 30, 40, 50];
   const array2 = array.filter((value) => {

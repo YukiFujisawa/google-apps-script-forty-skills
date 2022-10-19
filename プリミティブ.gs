@@ -1,3 +1,6 @@
+/**
+ * データ型① プリミティブ型
+ */
 function myFunction3() {
   let val;
   Logger.log(typeof val);

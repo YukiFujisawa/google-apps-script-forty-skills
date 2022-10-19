@@ -1,3 +1,6 @@
+/**
+ * 配列(Array)
+ */
 function myFunction5() {
   let arr = [10, 20, 30, 40];
   Logger.log(arr[0]);

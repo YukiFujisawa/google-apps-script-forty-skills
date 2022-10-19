@@ -1,3 +1,6 @@
+/**
+ * 関数① functionキーワード
+ */
 function myFunction10() {
   let 産地 = '長野県';
   let 取水地 = '安曇野';

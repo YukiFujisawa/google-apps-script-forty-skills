@@ -1,3 +1,6 @@
+/**
+ * クラスとインスタンス
+ */
 function myFunction13() {
   const member = new Member('太郎', '山田');
   const member2 = new Member('花子', '山田');

@@ -1,3 +1,6 @@
+/**
+ * 算術演算子
+ */
 function myFunction6() {
   Logger.log(12 * 2);
   Logger.log(3 * '2');

@@ -1,3 +1,6 @@
+/**
+ * 変数(let)
+ */
 function myFunction1() {
   let x = 10;
   Logger.log(x);

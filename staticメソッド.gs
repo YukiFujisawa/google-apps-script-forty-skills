@@ -1,3 +1,6 @@
+/**
+ * staticメソッド
+ */
 function myFunction14() {
   const a = 1;
   const b = 2;

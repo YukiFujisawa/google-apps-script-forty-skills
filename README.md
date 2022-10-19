@@ -25,6 +25,6 @@
 2. 5つの事例を通して40のスキルを身につけ、Google workspaceサービス（Gmail、スプレッドシートなど）を連携できるプログラミングの応用力を身につけることができます。
 3. Google Apps Scriptを実務で活用する方法を理解することができます。
 
-## Udemy
+## 視聴する
 
-[Udemyはこちら]([5つの活用事例から40のスキルが身につく、Google Apps Script 開発入門【ES2015(ES6)対応】](https://www.udemy.com/course/wywy-google-apps-script-forty-skills/?referralCode=7F7))
+[視聴はこちら(Udemyページに遷移します。)](https://www.udemy.com/course/wywy-google-apps-script-forty-skills/?referralCode=7F7)

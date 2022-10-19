@@ -1,6 +1,6 @@
 # 【Udemy教材】5つの活用事例から40のスキルが身につく、Google Apps Script 開発入門【ES2015(ES6)対応】 
 
-[5つの活用事例から40のスキルが身につく、Google Apps Script 開発入門【ES2015(ES6)対応】](https://www.udemy.com/course/wywy-google-apps-script-forty-skills/?referralCode=7F7)のサンプルコードです。
+[5つの活用事例から40のスキルが身につく、Google Apps Script 開発入門【ES2015(ES6)対応】](https://www.udemy.com/course/wywy-google-apps-script-forty-skills/?referralCode=7F7)の教材で紹介しているスクリプトです。
 
 
 ![AppScript表紙 (1) (1)](https://user-images.githubusercontent.com/10007402/196675376-3d9f8a15-1ee8-4a1a-8fc2-0be6df36c351.png)

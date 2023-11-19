@@ -14,7 +14,7 @@ function calendarServiceTest() {
   // calendar.createEvent('タイトル', startTime, endTime);
   const calendarEvents = calendar.getEvents(startTime, endTime);
   Logger.log(calendarEvents);
-  for (event of calendarEvents) {
+  for (const event of calendarEvents) {
     Logger.log(event.getStartTime());
     Logger.log(event.getTitle());
     event.addGuest('developer.for.udemy@gmail.com');

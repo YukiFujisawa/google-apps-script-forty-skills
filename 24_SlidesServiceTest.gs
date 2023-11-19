@@ -6,7 +6,7 @@ function slidesServiceTest() {
   const slidesId = ''
   const presentation = SlidesApp.openById(slidesId);
   const slides = presentation.getSlides();
-  for(slide of slides){
+  for(const slide of slides){
     Logger.log(slide)
   }
   const slide = presentation.appendSlide();
